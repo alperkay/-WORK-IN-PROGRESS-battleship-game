@@ -1,6 +1,6 @@
 # -WORK-IN-PROGRESS-battleship-game
 
-This app is still not completed.
+This app is yet to be completed.
 So far, it's able to generate boards for both the human player and the computer. 
 Computer's ships are randomly placed on the board. 
 The algorithm generates a random coordinate and checks if the given coordinate is suitable for the ship.
